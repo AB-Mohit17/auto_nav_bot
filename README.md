@@ -1,17 +1,3 @@
-### Hi there 👋, My name is Mohit
-#### Programming and Robotics
-![Programming and Robotics](https://anivizindia.in/wp-content/uploads/2022/03/3d-animation.jpg)
-
-My self Mohit from India. Currenlty an undergraduate student in IIT Roorkee and a Tech ensthusiast with a great passion for programming and Robotics
-
-Skills: Java / C++ / Fortran / C / Python / Mysql / ROS
-
-
-
-# Project ::
-
-
-
 
 # Autonomous Navigation of Ground Robot
 ![Lines of code](https://img.shields.io/tokei/lines/github/AB-Mohit17/auto_nav_bot)
@@ -25,10 +11,8 @@ https://drive.google.com/file/d/12U-ZFfdfukMCP64Ul8YYy5Yr2LTFvG-g/view?usp=shari
 ## Features
 
 - Uses AMCL for Path Planning
-- Not Much Need of Python
-- Provides pre-build packages for variouos tasks like mappping,localization,navigation
+- Uses pre-build packages for variouos tasks like mappping,localization,navigation
 - Uses Great Simulation and Visualization Tools Like Gazebo and RVIZ 
-- Not Much Need of Progamming is Required
 
 
 ## Tech Requirements :
