@@ -1,8 +1,8 @@
 
 # Autonomous Navigation of Ground Robot
-![Lines of code](https://img.shields.io/tokei/lines/github/AB-Mohit17/auto_nav_bot)
+![Lines of code](https://img.shields.io/tokei/lines/github/ab31mohit/auto_nav_bot)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AB-Mohit17/auto_nav_bot)
+![GitHub repo size](https://img.shields.io/github/repo-size/ab31mohit/auto_nav_bot)
 
 Making use of ROS (Robotics Operating System) to run Simulation of  ROBOT Navigating Automatically in a map of some environment from one point to another by choosing the shortest path , dodging the obstacles using a path planning with some predefined packages in ROS.
 ## Demo
